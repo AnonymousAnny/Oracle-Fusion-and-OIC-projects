@@ -1,0 +1,3 @@
+﻿DVM,HertzCommonESSsubRoute,<<DO NOT DELETE>> This lookup will be used to route the target integration component after subscribing the ess job completion event from oic
+ESS_Job_name,TargetIntegrationId,TargetInegrationVersion,ChildJobName,UCMJobName
+Create Automatic Receipt Write-offs,HTZ_AR_INT_2001_RCT_WR_OFF_CB,01.00.0000,Receipt Write-Offs Report,Upload Interface Error and Job Output File to Universal Content Management
