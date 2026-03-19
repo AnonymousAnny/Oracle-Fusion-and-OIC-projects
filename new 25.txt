@@ -1,0 +1,1 @@
+Get-Content *_part_* -Encoding Byte | Set-Content merged_file.vsix -Encoding Byte
